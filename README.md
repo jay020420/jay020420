@@ -9,7 +9,7 @@
 ---
 
 ### 📌 About Me
-👨‍💻 Full-Stack Developer focusing on modern web and API architecture.  
+👨‍💻 Full-Stack Developer aspire to become a developer who can experience and apply all technologies.  
 💡 I love building clean, scalable, and user-centric applications.  
 🌱 Always learning and exploring new technologies.
 
@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay020420&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay020420&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay020420&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jay020420&theme=flat)
 
 </div>
 
