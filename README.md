@@ -63,25 +63,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏆 **Project Name 1**
-📌 *Description*: Short description of what this project solves.  
-🔧 *Tech*: React, Node.js, Next.js, MySQL  
-🌐 *Live*: 🔗 [Demo Link](URL) | 📂 *Repo*: 🔗 [GitHub](URL)
-
----
-
-### 🏆 **Project Name 2**
-📌 *Description*: Brief description of project purpose.  
-🔧 *Tech*: Spring Boot, PostgreSQL, Swagger  
-📂 *Repo*: 🔗 [Link](URL)
-
----
-
 ## 📫 Get in Touch
 
 Let’s build something awesome together! 👇  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jayjay102@naver.com.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/heartcat_)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jay020420-portfolio.lovable.app/)
+
 
