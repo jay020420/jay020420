@@ -17,7 +17,6 @@
 
 ## 📊 GitHub Overview
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay020420&theme=tokyonight)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jay020420&theme=flat)
 
 </div>
